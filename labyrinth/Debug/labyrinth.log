@@ -1,0 +1,15 @@
+﻿  labyrinth.cpp
+d:\c\labyrinth\labyrinth\labyrinth.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(92): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(121): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(227): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+d:\c\labyrinth\labyrinth\labyrinth.cpp(262): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c\labyrinth\labyrinth\labyrinth.cpp(298): warning C4018: <: несоответствие типов со знаком и без знака
+  labyrinth.vcxproj -> D:\C\labyrinth\Debug\labyrinth.exe
